@@ -34,7 +34,7 @@ function SecondCounter() {
 export default function MyApp() {
   return (
     <div>
-      <h1>Welcome to my app</h1>
+      <h1>State</h1>
       <FirstCounter />
       <SecondCounter />
     </div>
